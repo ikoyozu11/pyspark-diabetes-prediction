@@ -125,10 +125,11 @@ Model terbaik yang dihasilkan:
 - Proses training membutuhkan waktu yang cukup lama karena ukuran dataset yang besar
 - Disarankan menggunakan komputer dengan RAM minimal 8GB
 
-## 👤 Author
+## 👤 Authors
 
-[Nama Anda]
-[Institusi/Universitas]
+- **Ali Rafli Putra Hakiki** (120322107)
+- **Okky Rangga Pratama** (1203220011)
+- **Bagus Christiannanta** (1203220161)
 
 ## 📄 License
 
